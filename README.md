@@ -8,12 +8,11 @@
 <br/>
 
 <span>星宇航空 HTML CSS 切版臨摹</span>
+
 <ul>
     <li><a href="https://github.com/bh20511/STARLUX">到github上看程式碼</a></li>
     <li>
-    <a herf="https://bh20511.github.io/STARLUX/">
-    直接看頁面</a>
-    </li>
+    <a href="https://bh20511.github.io/STARLUX/">到github上看程式碼</a></li>
 </ul>
 <img src="https://www.cakeresume.com/cdn-cgi/image/fit=scale-down,format=auto,w=828/https://images.cakeresume.com/P5AW4/bh20511/2f21c069-ac6e-429f-9039-5294ffb85d6a.jpeg"/>
 <br/>
@@ -25,4 +24,3 @@
 <div><span> PYTHON 爬蟲並寫成 CSV </span>
 
 <img width="200px" src="https://www.cakeresume.com/cdn-cgi/image/fit=scale-down,format=auto,w=828/https://images.cakeresume.com/P5AW4/bh20511/be09f9cf-290d-40c2-bc33-4b5e51bf34f7.jpg"/></div></div>
-
