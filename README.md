@@ -12,7 +12,7 @@
 <ul>
     <li><a href="https://github.com/bh20511/STARLUX">到github上看程式碼</a></li>
     <li>
-    <a href="https://bh20511.github.io/STARLUX/">到github上看程式碼</a></li>
+    <a href="https://bh20511.github.io/STARLUX/">直接看頁面</a></li>
 </ul>
 <img src="https://www.cakeresume.com/cdn-cgi/image/fit=scale-down,format=auto,w=828/https://images.cakeresume.com/P5AW4/bh20511/2f21c069-ac6e-429f-9039-5294ffb85d6a.jpeg"/>
 <br/>
